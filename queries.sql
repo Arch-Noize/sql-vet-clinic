@@ -38,6 +38,7 @@ SELECT * FROM animals;
 ROLLBACK TO birth;
 UPDATE animals SET weight_kg = weight_kg * -1 WHERE weight_kg < 0;
 COMMIT;
+SELECT * FROM animals;
 
 /* New queries */
 
