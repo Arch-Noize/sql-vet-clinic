@@ -119,8 +119,8 @@ Nor is it deployed in any other website or service.
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- Query and update animals table
-- Query multiple tables.
+- ~~Query and update animals table~~
+- ~~Query multiple tables.~~
 - Add "join table" for visits.
 - Add a database performance audit.
 
