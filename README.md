@@ -38,7 +38,8 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 # 📖 Vet Clinic Database <a name="about-project"></a>
 
-This repository holds a database for a veterinarian clinic. You can see a diagram of it [here](./Vet_Clinic_Diagram.png).
+This repository holds a database for a veterinarian clinic. You can see a diagram of it here:
+![Vet Clinic Diagram](https://github.com/Arch-Noize/sql-vet-clinic/assets/91759364/8aad9e7d-a57e-427d-b14c-7155fdcb161d)
 
 ## 🛠 Built With <a name="built-with"></a>
 
