@@ -38,7 +38,7 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 # 📖 Vet Clinic Database <a name="about-project"></a>
 
-This repository holds a database for a veterinarian clinic 
+This repository holds a database for a veterinarian clinic. You can see a diagram of it [here](./Vet_Clinic_Diagram.png).
 
 ## 🛠 Built With <a name="built-with"></a>
 
