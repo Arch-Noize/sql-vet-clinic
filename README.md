@@ -114,6 +114,11 @@ Nor is it deployed in any other website or service.
 - GitHub: [@Arch-Noize](https://github.com/Arch-Noize)
 - LinkedIn: [Santiago Ruido](https://www.linkedin.com/in/santiago-ruido-a1404880/)
 
+👤 **Aung Pyae Khant**
+
+- GitHub: [@lilskyex0x](https://github.com/lilskyex0x)
+- LinkedIn: [Aung Pyae Khant](www.linkedin.com/in/aung-pyae-khant-932342251)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
